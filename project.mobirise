@@ -1,0 +1,2001 @@
+{
+  "settings": {
+    "name": "aversa.com.ua_rev 01",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://aversa.com.ua",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-favicon-only-48x48.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "sitemapSwitcher": "on",
+    "versionFirst": "4.7.1",
+    "uniqCompNum": 135,
+    "versionPublish": "4.7.1",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Главная",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Главная<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Кто мы<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Галлерея<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Продукция&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ассортимент</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">История</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Рецепты</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с рикотта</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с моццарелла</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с качотта</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Медиа о нас<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Контакты<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Производство</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Регионы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Магазины</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Прайс-лист</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-2-314x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://aversa.com.ua",
+              "title": "Mobirise logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ТМ «АВЕРСА»</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-m"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fhd-5-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Яке на смак слово «сир»?",
+          "text": "Італійське! «Аверса» радо ділиться надбанням поколінь сироварів сонячної Італії. Нам довіряють ресторани, піцерії, люди які люблять сир і знаходять натхнення  в кухні. &nbsp; Життєлюби, які готують для найдорожчих &nbsp;– &nbsp;гостей та рідних.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Наші сири</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Про нас говорять</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Ассортимент",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Главная<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Кто мы<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Галлерея<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Продукция&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ассортимент</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">История</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Рецепты</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с рикотта</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с моццарелла</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с качотта</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Медиа о нас<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Контакты<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Производство</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Регионы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Магазины</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Прайс-лист</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-2-314x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://aversa.com.ua",
+              "title": "Mobirise logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ТМ «АВЕРСА»</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-o"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "Ассортимент",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-17"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/brenan-greene-229561-unsplash-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.8"
+          },
+          "title": "Качотта",
+          "caption": "<p><b>Сыр сычужный «Качотта» (итал. Caciotta)</b> – итальянский мягкий сыр, название которого буквально означает «сырок» и появилось благодаря небольшому размеру его головок. Сегодня подобные «сырки» производят во многих областях Италии – в Марке (Caciotta Marchigiana), Тоскане (Caciotta Toscana), в столичной Лацио, а также на Украине в Виннице.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-24",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "color": "#d9534f"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/caciotta-1-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<b>Качотта</b>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2a",
+          "_styles": {
+            "DIV": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lemon-ricotta-cake-a-1170x780.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Рикотта",
+          "caption": "<p><b>Сыр мягкий альбуминный «Рикотта» (итал. Ricotta)</b> – итальянский свежий, белый сыр из коровьего молока, по консистенции чуть плотнее творога. Его название переводится как «повторно сваренный», так как делают этот нежирный (до 2%) рассыпчатый сыр с помощью нагревания сыворотки, оставшейся от приготовления обычного сыра из коровьего молока (чаще всего таких известных итальянский сыров, как моццарелла ).  Обычная форма этого сыра – усеченный конус. Рикотту кладут в торты, бисквиты с кремом, сладкие блинчики, булочки и пирожки с начинкой. Её можно есть, просто намазав на ломоть хорошего хлеба, а можно припудрить корицей или шоколадом – отменный десерт. Среди всех молочных продуктов рикотта используется в итальянской кухне, пожалуй, наиболее часто, а рецептам, в которых она присутствует, буквально нет числа.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-25",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "color": "#d9534f"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ricotta-4-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<b>Рикотта</b>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2b",
+          "_styles": {
+            "DIV": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-444711-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.8"
+          },
+          "title": "Кочокавалло",
+          "caption": "<p><b>Сыр мягкий сычужный «Кочокавалло» (итал. Caciocavallo)</b> – волокнистый полутвердый итальянский сыр категории pasta filata. Его название связано с итальянским cacio (сыр), а также с практикой подвешивания его грушевидных головок для созревания на горизонтальные шесты «верхом» – a cavallo: головки связывают попарно и перекидывают через шест.\n</p><p>\n<span style=\"font-size: 1.25rem;\">Качокавалло распространён на юге Италии, откуда переправился даже в далекую Ломбардию вместе с сыроделами-южанами. Теперь этот сыр производят по всей Южной Италии – особенно широко в областях Калабрия и Абруцци. Этот сыр делают из коровьего молока, а вызревает он от пятнадцати дней до 3-4 месяцев и более. В продажу поступают головки качокавалло самой разнообразной формы обычным весом от 1 до 2,5 килограм.</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-27",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#d9534f",
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/caciocavallo-2-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<b>Кочовалло</b>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2c",
+          "_styles": {
+            "DIV": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/food-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.9"
+          },
+          "title": "Моццарелла",
+          "caption": "<p><b>Сыр сычужный мягкий «Моццарелла» (ит. Mozzarella</b>) – молодой итальянский сыр родом из региона Кампания. Классическая моццарелла (Mozzarella di bufala campana) производится из молока чёрных буйволиц, однако в продаже практически всегда присутствует моцарелла из коровьего молока. Этот сыр продают в виде белых шариков замоченных в рассоле, т.к. он долго не хранится. Самая вкусная моццарелла – giornata (одно-двухдневной давности). Выпускается и копчёная моцарелла (Mozzarella affumicata).</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-29",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#d9534f",
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mozzarella-1-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<b>Моцарелла</b>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2d",
+          "_styles": {
+            "DIV": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1o",
+          "_styles": {
+            "SMALL": {
+              "font-size": "21px",
+              "color": "#d9534f"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Кто мы",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Кто мы",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1j"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Главная<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Кто мы<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Галлерея<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Продукция&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ассортимент</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">История</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Рецепты</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с рикотта</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с моццарелла</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с качотта</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Медиа о нас<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Контакты<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Производство</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Регионы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Магазины</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Прайс-лист</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-2-314x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://aversa.com.ua",
+              "title": "Mobirise logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ТМ «АВЕРСА»</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-w"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/base-background-2-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.8"
+          },
+          "title": "Buongiorno!",
+          "caption": "<p><b>TOB «Аверса - Україна»</b> засноване в вересні 2004 року. Нашим натхненням є виготовлення я­кісних традиційних італійських сирів. На підприємстві працює відомий італійський технолог-сировар Мауріціо Перкуоко, чий досвід<i> </i>та вміння дозволяють запропонувати нашим клієнтам ексклюзивну продукцію.</p><p><span style=\"font-size: 1.25rem;\">Ми використовуємо у виробництві екологіч­но чисту, якісну сировину та інгредієнти. Нашою гордістю є такі відомі сири, як: «Моццарелла», «Качокавалло», «Качотта», «Рікотта»  та інші.</span></p><p><span style=\"font-size: 1.25rem;\">Продукція під ТМ «АВЕРСА» реалізуєть­ся через фірмову  роздрібну мережу в місті Вінни­ця та в інших містах України. Серед клієнтів ТОВ «Аверса-Україна» є піцерії та ресторани, що безумовно свідчить про заслужену довіру споживачів до репутації наших сирів.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">Торгова марка «Аверса» бере активну участь у ви­ставках продовольчого сектора, проводить дегустації та різноманітні акції. Здійснює спонсорську та благодійну допомогу.&nbsp;</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-x",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-31"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "One of the Easiest Website Builders",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-35"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-32"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Галлерея",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Галлерея",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-14"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Главная<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Кто мы<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Галлерея<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Продукция&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ассортимент</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">История</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Рецепты</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с рикотта</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с моццарелла</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с качотта</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Медиа о нас<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Контакты<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Производство</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Регионы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Магазины</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Прайс-лист</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-2-314x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://aversa.com.ua",
+              "title": "Mobirise logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ТМ «АВЕРСА»</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-n"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/003-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/003-1920x1280-800x533.jpg",
+                "active": false,
+                "alt": "003",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/001-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/001-1920x1280-800x533.jpg",
+                "active": false,
+                "alt": "001",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/002b-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/002b-1920x1280-800x533.jpg",
+                "active": false,
+                "alt": "002",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/004-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/004-1920x1280-800x533.jpg",
+                "active": false,
+                "alt": "004",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/005-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/005-1920x1280-800x533.jpg",
+                "active": false,
+                "alt": "005",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/007-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/007-1920x1280-800x533.jpg",
+                "active": false,
+                "alt": "007",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/006-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/006-1920x1280-800x533.jpg",
+                "active": true,
+                "alt": "006",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/008-1-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/008-1-1920x1280-800x533.jpg",
+                "active": false,
+                "alt": "006",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-10"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "История",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Главная<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Кто мы<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Галлерея<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Продукция&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ассортимент</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">История</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Рецепты</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с рикотта</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с моццарелла</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с качотта</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Медиа о нас<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Контакты<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Производство</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Регионы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Магазины</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Прайс-лист</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-2-314x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://aversa.com.ua",
+              "title": "Mobirise logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ТМ «АВЕРСА»</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-p"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "История",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-18"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/history-1-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Mobirise",
+          "text": "Еще в античные времена в текстах таких латинских авторов, как Плиний и Колумелла, документально отражено производство определенных сортов сыра из «пряденого молока» из коровьевого молока в Южной Италии.\n<br>\n<br>В одном из своих произведений Колумелла рассказывает о замешанном вручную сыре, который стекает струйкой в чане при одновременном его охлаждении. Этот сыр разрезают, бросают его в кипящую воду и замешивают вручную, а затем прессуют полученную массу в виде головки. \n<br>\n<br>В начале 50-х годов сыр Моццарелла, изготовленный из коровьего молока, начали называть «Фьор ди Латте», чтобы подчеркнуть различие между процессами производства сыра. Несмотря на это, правильно приготовленная Моццарелла из коровьего молока может быть не менее восхитительной, чем Моццарелла из молока буйволиц. \n<br>\n<br>Сыр Моццарелла относится к семейству «Паста Филата». Эти сорта сыра изготавливались с давних пор в Южной Италии, где молоко вследствие отсутствия холодильных приспособлений и наличия высоких температур окружающей среды – скисает быстро и спонтанно. Сыровары хорошо приспособились к тому, чтобы перерабатывать это скисающее молоко в сыр. Так родился сыр Моццарелла.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2e",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Моццарелла",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x"
+        },
+        {
+          "text": "<p>Моцарелла, моццарелла (ит. Mozzarella) – молодой итальянский сыр родом из региона Кампания. Классическая моцарелла (Mozzarella di bufala campana) производится из молока чёрных буйволиц, однако в продаже практически всегда присутствует моцарелла из коровьего молока. Этот сыр продают в виде белых шариков замоченных в рассоле, т.к. он долго не хранится. Самая вкусная моцарелла – giornata (однодневной давности), но её можно купить в Италии и в Украине - город Винница. Выпускается и копчёная моцарелла (Mozzarella affumicata), моццарелла с начинками.\n</p><p>\n<span style=\"font-size: 1.25rem;\">Производство сыра начинается с того, что молоко свёртывается сычужным ферментом. Затем белок нагревают до 80-90°С и помешивают до тех пор, пока не получится эластичная масса, из которой отрезают куски и лепят сыр различной формы (шарики, косички). Эта масса называется mozzatura (обрезь) – отсюда и название сыра. Оставшаяся после этого процесса сыворотка может быть использована для приготовления сыра рикотта.&nbsp;</span></p><p>\n</p><p><b>Свойства сыра</b></p><p>\n</p><p><b>• &nbsp;</b>форма и размер сыра могут быть разными: большие шарики – «боккончини», шарики поменьше, размером с крупную черешню – «чильеджини», совсем маленькие – «перлини», а также сыр может продаваться в форме косички;\n</p><p>\n</p><p><b>• &nbsp;</b>снаружи у моццареллы тонкая (1 мм) блестящая и гладкая кожица со слегка заметными бугорками в том месте, где головку оторвали от общей массы;\n</p><p>\n</p><p><b>• &nbsp;</b>внутренняя структура – немного слоистая и не содержит пузырьков воздуха, при разрезании сыра вытекает немного белой жидкости.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1y"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/history-2-1400x788.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-2f"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Моццарелла в рассоле",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1z"
+        },
+        {
+          "text": "<p>На вкус моцарелла нежная, пресноватая, чуть упругая. Моццарелла – один из основных продуктов итальянской кухни; в первую очередь используется при приготовлении пиццы, а также в различных салатах, запеканках, лазаньях. Моццареллу также используют для приготовления пирога кальцоне, распространённого в центральных и южных регионах Италии. Национальным блюдом является капрезе (поочерёдно выложенные ломтики моцареллы и помидоров и листики базилика), цвета которого повторяют расцветку итальянского флага.\n</p><p>\n<span style=\"font-size: 1.25rem;\">В продаже встречается пластовая моццарелла, поставляемая не в рассоле, а как обычный сыр, с возможностью более долгого хранения, однако она имеет мало общего с настоящей моццареллой.</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-20"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Рецепты",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Главная<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Кто мы<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Галлерея<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Продукция&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ассортимент</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">История</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Рецепты</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с рикотта</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с моццарелла</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с качотта</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Медиа о нас<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Контакты<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Производство</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Регионы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Магазины</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Прайс-лист</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-2-314x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://aversa.com.ua",
+              "title": "Mobirise logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ТМ «АВЕРСА»</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Рецепты<br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-19"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "Медиа о нас",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Главная<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Кто мы<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Галлерея<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Продукция&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ассортимент</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">История</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Рецепты</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с рикотта</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с моццарелла</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с качотта</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Медиа о нас<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Контакты<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Производство</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Регионы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Магазины</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Прайс-лист</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-2-314x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://aversa.com.ua",
+              "title": "Mobirise logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ТМ «АВЕРСА»</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-1k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pasted-image-0-1600x889.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#d9534f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.8"
+          },
+          "title": "Медиа о нас",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">смотреть</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1l"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "<a href=\"https://focus.ua/money/126120/\" target=\"_blank\" class=\"text-black\">Они пришли с сыром. Репортаж с итальянской сыроварни</a>",
+          "meta": "Екатерина Шаповал, Фокус",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2g"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/image003-624x409.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Фото: Дмитрий Стойков, Фокус\r",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2i"
+        },
+        {
+          "text": "<p>Маурицио Перкуоко привёз из Неаполя рецепты качотты и качокавалло. Требуемые в Украине техусловия для их производства, мастеру пришлось разрабатыват самому\n</p><p>\n</p><p><span style=\"font-size: 1.25rem;\">Винницкой сыроварне Aversa меньше чем за год удалось увеличить сбыт своей продукции в 26 раз. И это на фоне общего падения отрасли в прошлом году на 10–15%</span><br></p><p>\n</p><p>«Ох и уморил меня сегодня этот качокавалло», – устало жалуется Пуффатино своей коллеге Поппете на кухне небольшой современной сыроварни. Бригадир сыроваров демонстрирует красные ладони после интенсивной лепки шаров из горячего «сырного теста».\n</p><p>\n</p><p>«Уже немного осталось, последняя партия», – успокаивает коллегу Поппета, выключая телевизор, громко поющий на итальянском.\n</p><p>\n</p><p>Этот производственный диалог вполне мог быть подслушан где-нибудь в пригороде Неаполя, Рима или Милана. Но Фокус стал его свидетелем в украинской глубинке – на окраине Винницы. Именно там расположен единственный в стране завод, на котором настоящие итальянские сыры делают старинным ручным способом под торговой маркой Aversa. А Дюймовочка и Крошка (именно так переводятся с итальянского Пуффатино и Поппета) – это шутливые прозвища сотрудниц сыроварни, данные им владельцем предприятия Маурицио Перкуоко.\n</p><p>\n</p><p><b>Суть в обрезках\n</b></p><p>\n</p><p>Товар лицом. Полгода назад Aversa открыла первый фирменный магазин в Виннице. В Киев компания поставляет меньше трети продукции и только в небольшие торговые точки\n</p><p>\n</p><p>Итальянская сыроварня известна каждому винничанину. Aversa – это четыре вида сыра: популярная во всём мире моцарелла, полутвёрдые сыры – качокавалло и качотта, а также мягкий сыр рикотта. Сваренный из украинского молока продукт ничем не отличается от оригинального итальянского сыра. Секрет, в прямом смысле, – в руках мастера-моцареллодела в десятом поколении Маурицио Перкуоко. Он здесь и хозяин, и начальник, и подчинённый. К варке сыра приобщился в 14 лет.\n</p><p>\n</p><p>«Я не делаю сыр по рецепту, – рассказывает Перкуоко. – Пробуя на вкус казеин – молочный белок, свернувшийся в плотную белую массу после добавления фермента, определяю, готово ли сырьё к тому, чтобы стать моцареллой. В этом мне помогают интуиция и опыт».\n</p><p>\n</p><p>После положительного вердикта, вынесенного чутьём Маурицио, казеиновый продукт отправляется в измельчитель, а затем попадает в руки подсобных рабочих, которые рвут оставшиеся куски на ещё более мелкие. Перкуоко проверяет достаточно ли маленькими получились кусочки.\n</p><p>\n</p><p>Кстати, работа по созданию казеиновых ошмётков довольно трудоёмкая – корреспонденту Фокуса, решившему примерить на себя профессию подмастерья, пришлось приложить немало усилий, чтобы «казеинчики» приняли именно тот вид, который нужен маэстро Перкуоко.\n</p><p>\n</p><p>Но даже правильное приложение физической силы и опыт мастера – отнюдь не гарантия получения качественного сыра. Главное – молоко, из которого варят продукт. А сырьё в Украине плохое, уверяет Маурицио Перкуоко. «В литре итальянского – 150 граммов казеина, винницкое может похвастать максимум 100 граммами белка», – жалуется сыродел. К тому же летом, когда цена молока традиционно падает, селяне частенько разбавляют его водой, чтобы заработать на количестве. При варке моцареллы недостатки сырья видны особенно – масса сворачивается неравномерно, а в сыворотке есть примеси. Владимир Онищук, директор Aversa, рассказывает, что на поиск поставщиков ушло полгода, и сейчас они работают только с проверенными людьми.\n</p><p>\n</p><p>&nbsp;<b style=\"font-size: 1.25rem;\">Кризис не для сыра</b></p><p>\n</p><p><span style=\"font-size: 1.25rem;\">Естественный отбор. Владимир Онищук, директор компании Aversa, полгода искал поставщиков молока, чтобы обеспечить качество.</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">Первую партию сыра Aversa сварила в самый разгар кризиса – в сентябре 2009 года. Стартап в период нестабильности оказался успешным: начав с 2–3 килограммов продукции в день, компания довела ежедневную реализацию до 50–80 кг. Рост производства у винничан совпал с общим падением выпуска твёрдых сыров, который в 2009 году ушёл в минус на 10–15%. В Винницкой области ситуация ещё непригляднее – за 4 месяца 2010 года здесь произвели сыров почти вполовину меньше, чем годом ранее. По словам Онищука, сработать вопреки тенденции его компании помогло высокое качество продукции, в производстве которой не используются консерванты и красители. К тому же многие винничане, побывав на заработках в Европе, привезли на родину привязанность к настоящим итальянским сырам, с которыми украинские не идут ни в какое сравнение.</span></p><p>\n</p><p>Даже высокая по местным меркам стоимость не спугнула покупателей – средняя цена сыра составляет 100 грн. за килограмм. И кризис только подстегнул торговлю: этой зимой, когда самый дешёвый «Российский» подорожал до 70 гривен, многим любителям сыра цены на продукцию Aversa перестали казаться заоблачными. «Мы не увеличивали стоимость нашей продукции сознательно, чтобы не ушли клиенты, – рассказывает г-н Онищук, – хотя и работали почти с нулевой рентабельностью из-за того, что зимой молоко подорожало до 5,3–5,5 гривен. Сейчас цена сырья – 2,5 гривны, и это позволяет держать рентабельность производства на уровне 20%».\n</p><p>\n</p><p>Размер прибыли директор предпочитает не озвучивать, замечая, что всё заработанное сейчас вкладывается в производство. Самоинвестирование – единственная возможность развиваться в отсутствие банковских кредитов. Тем более что стартовый капитал при запуске цеха был небольшим для такого производства – $250 тыс. Вложенные деньги – личные сбережения Перкуоко и двух его украинских партнёров.\n</p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">Вкладывая в себя, Aversa обзавелась 5-ступенчатой системой очистки воды, обновила систему вытяжек и купила брендированный грузовик Fiat для развозки продукции. В ближайших производственных планах – охладитель для хранения больших объёмов молока. Кроме этого, в декабре прошлого года в центре Винницы открылся первый фирменный магазин итальянских сыров Aversa. Сейчас торговых точек уже две. Побывав в одной из них, расположенной в большом торговом центре в спальном районе города, корреспондент Фокуса убедился: спрос на моцареллу с рикоттой есть. Несмотря на рабочее время, торговля в магазинчике не останавливалась ни на минуту.</span></p><p>\n</p><p><b>&nbsp;<span style=\"font-size: 1.25rem;\">Сбыт на вырост</span></b></p><p>\n</p><p>Проектная мощность винницкой сыроварни – тонна продукции в день. Но до полной загрузки ещё очень далеко: в лучшие дни здесь изготавливают не более 100 кг сыра, и продаётся он преимущественно в Виннице (в Киев идёт 30%). Наращивать производство и выходить на общенациональный уровень мешает нестабильность с поставками молока, а также то, что качество продукции напрямую зависит от личного участия в процессе одного человека – Маурицио Перкуоко. Но планы расширения сбыта основатель компании всё же вынашивает, для чего намерен приобрести собственное фермерское хозяйство и обучить помощников.\n</p><p>\n</p><p>Сергей Корнев, директор киевского предприятия «ВЗТФ Евро», которое, как и Aversa, производит рикотту с моцареллой, скептически оценивает шансы своего конкурента по выходу за пределы Винницы. «Им это не удастся, – уверен он. – Причина: слишком высокая цена «входного билета» в сети супермаркетов». Но Сергей Янчук, директор по маркетингу Икс 5 Ритейл Групп Украина (сеть супермаркетов «Перекрёсток») не согласен: в Украине есть сети, для которых основной заработок – оборот, а не торговля местами на полке. «Адекватное предприятие с хорошим качеством и большими объёмами может без проблем зайти в сеть и продаваться там», – говорит он. Правда, чтобы понравиться, например, искушённым столичным покупателям, Aversa стоит поменять упаковку продукта. Сейчас моцареллу, которая хранится в специальной жидкости, расфасовывают в целлофановые пакеты. Это не очень удобно, ведь такой «аквариум» может потечь прямо в сумке.\n</p><p>\n</p><p>Зато продукция итальянца минимум в два раза дешевле иностранных аналогов. Так, 300-граммовая упаковка винницкой рикотты стоит 11 гривен, а такой же объём сыра итальянского производства – все 40. Похожая ситуация и с моцареллой, за килограмм которой Aversa просит 60 грн., тогда как импортёры не продают дешевле 100 грн. А качакавалло и качотту в Украине и вовсе не найти.Ловушка для сыра. Молочный белок казеин заваривают кипятком, для того чтобы он расплавился и превратился в однородную массу.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2h"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Моцареллу делают из молока буйволицы мягким сыром смазывают бисквит",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2j"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/image012b-501x405.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2n"
+        },
+        {
+          "text": "<p><b>Перкуоко Маурицио открыл в Виннице цех сыроварения. Вера Дякова помогает ему готовить моцареллу\n</b></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">Полгода тому назад итальянец 48-летний Перкуоко Маурицио из династии сыроделов города Аверса возле Неаполя начал варить сыр в Виннице. Готовит моцареллу, качокавалу, качоту, рикоту и другие сорта. Сыроварением занимается с 14 лет.</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">– Пармезан – король сыров, – говорит с акцентом. – Чем дольше он хранится, тем вкуснее получается. А моцарелла – королева. Наоборот, вкусная, когда свежая. Ее надо продавать в рассоле. Классическую моцареллу делают из молока буйволицы. Та, что из коровьего, называется ”молочным цветком”.</span></p><p>\n</p><p>Перкуоко Маурицио одет в белую футболку, синий комбинезон, на ногах – резиновые сапоги. Разговариваем в цехе по ул. Тарногродского, 34а. Итальянец как раз варит моцареллу. В 100 л молока добавляет почти 2 кг соли и 150 г фермента, от которого молоко сворачивается. 1 кг стоит 30 евро. В никелированных чанах смесь созревает 5–6 ч. Потом ее нагревают до 80–90°С. На поверхность поднимается пористая масса, которая превращается в эластичное белое тесто. Маурицио ножом отрезает 0,5-метровый кусок, кладет в широкую деревянную кадку и заливает кипятком. Быстро мешает деревянной палкой.\n</p><p>\n</p><p>Работница цеха 48-летняя Вера Дякова причмокивает:\n</p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">В 100 литров молока добавляет два килограмма соли</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">– Красивая, как невеста, белая-белая. Это дело ответственное. Где-то чуть рот раскрыла – и все, моцарелла не такая. Ей нужно угодить. Я пробовала делать ее дома. Не выходит никак. А Маурицио чувствует молоко, видит его по запаху.</span></p><p>\n</p><p>Из сырного теста итальянец лепит шарики, сплетает косички. На 3 ч. опускает их в холодную воду. Объясняет, что название сыра происходит от слова ”моцатура”, что означает ”обрезки”.\n</p><p>\n</p><p>– Из теплой моцареллы можно делать разные фигуры, – говорит. – Когда-то на свадьбе в Италии жениху я слепил мужской детородный орган, невесте – женский. Вот смеху было. Только вы об этом в газете не пишите.\n</p><p>\n</p><p>Из сыворотки, которая осталась от приготовления моцареллы, варит рикоту. Когда сыворотка закипает, на поверхность всплывает сыр. Его собирает в формы с дырами, чтобы стекла жидкость. Из 250 л сыворотки выходит 10–12 кг рикоты. Чем жирнее молоко, тем ее больше.\n</p><p>\n</p><p>– Напоминает наш творог, но более нежный, без кислятины, – говорит Дякова. – Рикота не имеет жиров, полезна детям и пожилым. А какие из нее десерты выходят! Для торта я смешиваю рикоту с сахаром и смазываю этим бисквит. Сверху кладу ягоды, орехи. Верхний корж заливаю шоколадом. Очень вкусные налистники с рикотй и изюмом. А если прибавить чеснок и зелень, выходит сырковая масса для бутербродов. Можно делать из этого сыра пиццу. Смазать им корж и поставить в духовку, чтобы расплавился.\n</p><p>\n</p><p>В цеху есть машина, которая формирует сырные шарики весом по 50, 100 и 150 г. Это бокончини. Чери весят 30 граммов. В холодильных камерах хранятся желтые головки качокавало. Они овальной формы, наверху перетянутые. Весят по 2,5 кг. По вкусу отличаются, потому что неодинаковой зрелости. Сладковатым сыр будет на восьмой-девятый день, пикантным на пятый-шестой месяц. Рядом лежит качота, которая по вкусу напоминает брынзу. Маурицио любит добавлять в нее орехи, перец, оливки.\n</p><p>\n</p><p>За день итальянец производит почти 40 кг сыров. Сбывает их в фирменный магазин ”Моцарелла” в Виннице по ул. Соборной, и в столице. Моцареллу, качокавало продают по 80 грн за кг, рикоту – 30 грн, качоту – 60 грн.\n</p><p>\n</p><p>Килограмм рулета из сыра и ветчины стоит 100 гривен\n</p><p>\n</p><p>Делать рулет из моцареллы Маурицио не доверяет никому. Из горячего сырного теста раскачивает корж толщиной 0,5 см. Сверху тонким слоем укладывает порезанную пластинами ветчину, помидоры и листики базилика. Заворачивает рулетом. За килограмм просит 100 грн.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2k"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Маурицио Перкуоко эксклюзивно для «RIA» о его непростой жизни в Виннице и его «мафии»",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2o"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/image002-480x618.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2p"
+        },
+        {
+          "text": "<p>«Меня 20 людей называют своїм кумом, скоро еще одни крестины – молдавского ребенка…» Это то приятное, о чем он говорил с искренней улыбкой. Только глаза во время всего интервью не скрывали глубину жизни, с которой ему пришлось подняться. Тут, в Украине. Но сначала опуститься…\n</p><p>\n<span style=\"font-size: 1.25rem;\">Разочарование в друге, поджог автомобилей во дворе, восемь ударов молотком по голове… Он терял - свой бизнес, но не талант любить жизнь и замешивать моцареллу. Да, итальянцы знают толк в хорошем сыре. Таких мастеров, как Маурицио Перкуоко мало в самой Италии. Три года назад он как раз замешивал моцареллу в новом цехе по улице Тарногородского, когда к нему приехали из СБУ… «Вышел на три часа, а вернулся через три года…»&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">Это тот самый итальянец, о котором писала «RIA» в прошлом номере. Тот самый, которого якобы подозревают в запугивании свидетелей итальянской мафии… Но это не он. Уже привык, что все плохое, что связано с пребыванием итальянцев в Виннице, связывают с его именем. Впервые Маурицио Перкуоко решил рассказать читателям газеты, что произошло на самом деле. Нет, это ни в коем случае не оправдание. Всего лишь фрагмент его истории жизни – 48 лет невозможно вместить на газетную полосу. Но хоть кое-что понять нужно…&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">«Мы с Ириной вместе уже шесть лет»&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">А все началось с наших детей. После чернобыльской аварии из Винницы отправляли группы школьников на оздоровление в Италию. Тогда Маурицио услышал об украинском городе – его друг предложил поехать «в разведку».&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">– В турагенстве купили путевки – тур Греция-Турция-Украина, - вспоминает итальянец. - Когда я увидел Одессу, то сразу хотел уехать обратно, домой. Но потом мы поехали в Винницу… Признаюсь, в Украине мы хотели убедиться, настолько ли здесь красивы женщины, как говорят. Убедился – сейчас я женат на украинке, с Ирой мы вместе уже шесть лет…&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">Впервые в Винницу я приехал 17 апреля 1997 года. Нас было пятеро… На тот момент у меня была в Италии семья. Здесь мы с другом познакомились с сестрами-близнецами. У меня с девушкой отношения не сложились, а друг завел семью с ее сестрой. Соответственно со мной у него тоже испортились отношения, так как он остался в той семье, а до этого сделал все возможное, чтобы я развелся со своей женой в Италии, и тогда бы мы оба женились на винничанках. Мы из-за этого сильно поругались, после чего у меня начались проблемы…&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">А когда 8 марта под окнами дома подожгли мой «Крайслер», я даже подумать не мог на своего друга. Через месяц точно так же подожгли второй автомобиль – «Альфа Ромео»… Мне друзья в Италии рассказали, что это работа моего итальянского друга, да и сам он потом признался…&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">Я вложил 60 тысяч долларов в ресторан, и тот же друг меня обманул с этим рестораном. Столько всего было… И два раза обокрали квартиру… В 12 часов дня вынесли все, даже грязное белье. Соседи видели, номера такси записали, я четыре часа в милиции писал – что украли и что сколько стоит… Зато, когда второй раз газом выжгли бронированные двери (запах газа во дворе чувствовался), милиция сказала, что предыдущее ограбление у них не зафиксировано…&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">А когда познакомился с женой, били восемь раз по голове молотком – хотели украсть мою машину – БМВ. Это было на улице Льва Толстого. Ира вышла из автомобиля, этого и дожидались…&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">– Мы его еле спасли, - присоединяется к разговору Ирина. – Отвезли в Тульчин, месяц пролежал в больнице… Кто и за что его так? Милиция, как всегда, никакой зацепки не нашла…&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">М.: Когда говорят, что я устраивал людей на работу, вывозил в Италию – это все неправда. Никому ничего не обещал, единственная – моя жена была в Италии.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">– Почему после всего пережитого здесь Вы не уехали на родину?&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">– Пытался… Там у меня фабрика по производству сыра «моцарелла», но моя итальянская жена с помощью того же итальянского друга забрала все – все было на нее оформлено. В Виннице продал в три раза дешевле квартиру, хотел побыстрее вернуться. Но когда приехал, то увидел, что некуда ехать – жена продала два дома, забрала детей и уехала в другой город. Поэтому вернулся в Винницу…&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">– В 90-е года непросто было начинать свой бизнес местным, а как итальянцам?&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">– Так как в 90-е трогали других людей, нас, итальянцев не трогали. Мы приехали с инвестициями. К тому же я не постоянно здесь жил, на протяжении года - три-четыре месяца. Жили в гостинице, ели в ресторанах, то есть итальянцы были хорошим денежным вложением. Но и тогда, и теперь тяжело в вашем городе начинать бизнес…&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">D2002 году вместе с Игорем Стусом (винничанин, уехал на ПМЖ в Германию) мы решил начать совместный бизнес – производить моцареллу, построили завод, документально все оформили… В 2005 году, четвертого мая, за три дня до открытия Игорь разбился в аварии. Через месяц меня арестовали… Я не понимаю, почему у меня такие проблемы… Черная полоса… За 12 лет моего пребывания в Украине я никому не делал зла, это могут подтвердить все, кто лично со мной знаком. Потом еще и тюрьма…&nbsp;</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">«Тюрьма действительно плачет за мужем»</span></p><p>\n</p><p><span style=\"font-size: 1.25rem;\">Ирина: - С Аньелло мы познакомились в супермаркете. Мы шли и шли итальянцы. Аньелло говорит: «Здравствуйте!». Это нормально, точно также я в Италии знакомлюсь с украинцами, но итальянцев меньше здесь, чем наших там. Они стараются держаться вместе.</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">Познакомившись, Аньелло предложил попить кофе, пообщаться. Мы согласились. Аньелло спросил Мариуцио, давно ли он в Украине и хорошо ли знает дорогу в Италию. Попросил показать… Вот он с ним и поехал.</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">М.: Я виноват – я поверил ему…</span></p><p>\n</p><p><span style=\"font-size: 1.25rem;\">– Вы знали о его махинациях с машинами?</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">М.: Нет.</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">И.: Когда были суды, прочитать дела было нереально. Маурицио дали пять лет…</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">Всего отсидел два года восемь месяцев – год в Ужгородском СИЗО, потом в Житомирской колонии. Помиловал Президент…</span></p><p>\n</p><p>М.: Когда я сидел, попросил официальную экстрадицию, но как мне объясняли, в моем нахождении в Украине есть заинтересованные люди… Начальник тюрьмы мне говорил: «Зачем тебе Италия? Ты же хороший человек, оставайся…»\n</p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">И.: То, что писали: «За ним плачет тюрьма», это правда – за ним плачет персонал тюрьмы. Если спросите любого рабочего колонии, то о Маурицио расскажут только с хорошей стороны. Он всем помогал, продукты отдавал… В Житомирской колонии полностью реконструировал санчасть. Я возила ему деньги, стройматериалы...</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">М.: На свободе можно было дом построить. :)</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">И.: Он сам укладывал плитку, шпаклевал… Кормил больных туберкулезом, ему их очень жалко… Даже наша система его не поломала, он слишком добрый. Это мать Тереза в мужском обличье. Я это говорю не потому, что его жена, все, кто его не знает, сначала: «Вот он старше тебя…», но потом они меня понимают. Его нельзя не уважать и не любить… Погиб его товарищ, другие бы забыли, а он на фабрике отвел место – в память о друге, там его фотография, цветы…</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">Когда Маурицио сломал ногу, Игорь его на руках носил… В принципе, у него есть инвалидность, но она ему не нужна. На зоне он перенес микроинсульт плюс на нервной почве появился диабет… Игорь был не просто партнером по бизнесу и другом, он был ему братом. Просто преданный человек. Не за деньги. Многие бы хотели общаться с ним из-за денег, но мы не умеем так выбирать друзей.</span></p><p>\n</p><p><span style=\"font-size: 1.25rem;\">– С Аньелло после тюрьмы общались?</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">М.: Мы сидели вместе. Я простил того итальянца, который давал показания на меня… Я сам виноват…</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">И.: Все обвинения были основаны на показаниях свидетелях. Аньелло не говорил ничего против Маурицио.</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">М.: В тюрьме я видел очень много… Видел многих невиновных… Я не могу говорить об этом много... В Италии мафия - черная, в Украине – белая, понимаете?</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">Ж.: Еще факт. Тот итальянец, который дал на него показания, Маурицио сейчас его устроил на работу.</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">М.: Он тоже не виноват – на него надавили. Денег у него нет… Мне много людей задолжали, непростых людей. Когда у меня были деньги, я им помогал, когда денег не стало, они начали говорить, что это я одалживал…</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">«Главное, чтобы молоко не разбавляли»</span></p><p>\n</p><p><span style=\"font-size: 1.25rem;\">– Насколько Вы удачный бизнесмен в Украине, по сравнению с тем, каким были в Италии?</span></p><p>\n</p><p><span style=\"font-size: 1.25rem;\">– В Италии более свободно можно заниматься коммерцией. Здесь бюрократия. Я моцареллу могу делать в любой стране – ее знают во всем мире, но сейчас я хочу сделать тут. Для меня нет проблемы, где, главное, чтобы молоко не разбавляли. В Виннице я занимаюсь бизнесом принципиально – в память об Игоре, чтобы поддержать его сына.</span></p><p>\n</p><p><span style=\"font-size: 1.25rem;\">И.: Маурицио в 13 лет пошел работать помощником технолога по моцарелле. Рано потерял родителей. Он седьмой в семье – самый младший, но он выдал замуж своих сестер, сделал свадьбу сестре, когда ему было 14 лет. Маурицио поэтому и не хочет возвращаться в Италию - с малых лет зарабатывал больше, чем все вместе взятые в семье.</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">М.: Как сказал мне недавно консул, когда поменяли паспорт – то была твоя старая жизнь, теперь все по-новому.</span></p><p>\n</p><p><span style=\"font-size: 1.25rem;\">Когда прощались, Ирина сказала о просьбе ее отца: «Маурицио на десять дней младше папы, но папа называет его своим сыном». И тут Маурицио не сдержался: «А маму Любу я называю «Мамуля» :)</span></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">Вот так они живут вместе – 48-летний итальянец со своей молодой красивой женой и ее родителями. Это и есть их «мафия». А после майских праздников вкус настоящей моцареллы узнают винничане – она появится в продаже. Ее вручную будет замешивать Маурицио. У него свой рецепт и сыра, и судьбы…</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2q"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Мне захотелось накормить украинцев настоящим итальянским сыром",
+          "meta": "23 декабря 2009 года, среда, Человек и общество",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2r"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/image002-1-480x360.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2x"
+        },
+        {
+          "text": "<p>\"ПОПРОБОВАВ В ВИННИЦЕ КУСОЧЕК ПРОДУКТА, ПРОДАВАВШЕГОСЯ ПОД ВИДОМ МОЦАРЕЛЛЫ, УДИВИЛСЯ - ОН БЫЛ ПОХОЖ НА ЛАСТИК ИЛИ ВАРЕНЫЙ КАЗЕИН. И ТОГДА МНЕ ЗАХОТЕЛОСЬ НАКОРМИТЬ УКРАИНЦЕВ НАСТОЯЩИМ ИТАЛЬЯНСКИМ СЫРОМ\"\n</p><p>\n</p><p><i>Тамара МАЛИНОВСКАЯ \"ФАКТЫ\" (Винница)\n</i></p><p>\n</p><p>&nbsp;<span style=\"font-size: 1.25rem;\">- Двенадцать лет назад мои друзья пригласили на оздоровление в Италию детей-чернобыльцев из Винницы, - 48-летний итальянец Маурицио Перкуоко, старательно подбирая слова, извиняется, что не очень хорошо владеет русским языком. - Семьи ребят пригласили нас к себе с \"ответным визитом\". Тогда я впервые побывал в Украине. Меня очаровала здешняя природа, добрые и трудолюбивые люди, а еще удивило, какие плодородные у вас черноземы.</span></p><p>\n</p><p>Как-то, попробовав в Виннице кусочек продукта, продававшегося под видом моцареллы, удивился - он был похож на ластик или вареный казеин. Именно тогда и стал подумывать о том, чтобы переехать со своим бизнесом в Украину. Я уже имел две фабрики по производству сыра. Даже в моем паспорте отмечено, что я - сыродел. Это наш семейный бизнес, я в нем с 14 лет, а достался он мне по наследству от отца. Ведь производством сыров в Италии занимаются исключительно мужчины, многие известные сыроделы у нас уважаемы и любимы так же, как политики или звезды эстрады. Подумал: в Италии сыроделов много, а в Украине я буду один. Да и очень хотелось накормить украинцев настоящей итальянской моцареллой.\n</p><p>\n</p><p>\"По всей территории тюрьмы мы разбили клумбы, семена цветов мне привозили братья и сестры из Италии\"\n</p><p>\n</p><p>Впрочем, путь к открытию собственного бизнеса оказался не таким уж простым... Строительству и запуску цеха по производству сыров предшествовали проблемы и несчастья. Как-то, пытаясь завладеть престижной иномаркой Маурицио, хулиганы напали на него и жестоко избили. Итальянец был вынужден длительное время лечиться. Вскоре в ДТП погиб его друг и компаньон Игорь Стус, утрату которого он тяжело переживал. Но самое трудное испытание ждало впереди: Маурицио вместе с двумя соотечественниками обвинили в контрабанде дорогих иномарок из Италии в Украину и приговорили к пяти годам лишения свободы.\n</p><p>\n</p><p>Долгих два года и восемь месяцев он отсидел в украинских тюрьмах. И вот недавно вышел на свободу, помилованный Президентом Украины. Все это время за него ходатайствовали посольство и консульство Италии в Украине.\n</p><p>\n</p><p>- В одном из винницких супермаркетов я совершенно случайно встретил земляка, а когда разговорились, он попросил меня помочь перегнать через границу новенький \"БМВ\", - рассказывает Маурицио. - Я даже и предположить не мог, что автомобиль краденый, что документы на него поддельные, что сам я ввязну в автомобильную аферу и попаду в СИЗО по подозрению за соучастие в контрабанде. В общем, одурачили и меня, и еще одного соотечественника - нам дали по пять лет лишения свободы, а втянувший нас в преступление итальянец был приговорен к семи годам заключения. Об этом уголовном деле писали многие украинские газеты, мне даже говорили, что оно показательное, ведь такое случается не часто, чтобы сразу трое иностранцев в Украине попали за решетку! Обычно иностранных граждан для отбывания наказания депортируют на родину, нам же пришлось сидеть в украинских тюрьмах. До сих пор страшно вспоминать ужгородский СИЗО - грязный, вонючий, по нескольку десятков человек в одной камере. Всего на один час в сутки нас выводили на свежий воздух. Условия просто нечеловеческие! Слава Богу, после оглашения приговора меня перевели в житомирскую тюрьму. Вместе с тремя заключенными с разрешения начальника мы отремонтировали пустующее помещение на территории тюрьмы и жили в нем. Сделали ремонт и в здании администрации. По всей зоне разбили цветники - семена мне привозили братья и сестры из Италии.\n</p><p>\n</p><p>Конечно же, я все время ходатайствовал, чтобы меня перевели отбывать наказание в итальянскую тюрьму. И таки получил это разрешение. Но уже после того, как... был помилован Президентом Украины и освобожден.\n</p><p>\n</p><p>- Я очень переживала за мужа, - подключается к нашему разговору Ирина, жена Маурицио. - Каждые выходные ездила к нему, привозила еду, теплые вещи, обувь. Он так благодарил меня за обновки! А вскоре звонил и просил привезти... то же самое. Оказалось, все раздарил другим заключенным, к которым никто из родных не приезжал. В общем, мне приходилось все покупать снова. Научилась вязать свитера на вязальной машине, часть из них продавала, чтобы выручить деньги для предстоящей поездки. Просила мужа, чтобы он так сильно не переживал за других. Он возражал, дескать, здесь все время происходит что-то такое, что невозможно оставаться равнодушным. И приводил в пример случай, когда одного из заключенных приговорили к 11 годам лишения свободы за умышленное убийство. А спустя 8 лет оказалось, что тот, кого он якобы убил, на самом деле жив! Маури волновался и недоумевал: как такое могло произойти?\n</p><p>\n</p><p>В тюрьме Маурицио страдал из-за того, что не может заняться своим любимым сыроделием. Как-то в разговоре с начальником тюрьмы заметил, что хотел бы производить сыр и для заключенных, и для обслуживающего персонала. Но, увы, из-за проблем с сырьем и отсутствия необходимого оборудования от этой идеи пришлось отказаться.\n</p><p>\n</p><p>\"В моем родном городке близ Неаполя на сто тысяч населения - более ста фабрик сыра!\"\n</p><p>\n</p><p>Освободившись, Маурицио оставил в тюрьме всю свою бытовую технику - телевизор, холодильник, микроволновку, караоке, чтобы ими пользовались другие. Шестеро братьев и сестер (он седьмой и самый младший в семье) упрашивали его после освобождения покинуть Украину. Но мужчина решительно заявил, что будет продолжать начатое им производство сыра в Виннице. Выйдя из тюрьмы, первым делом побывал на \"фабрике\". И пришел в отчаяние: из-за прохудившейся крыши помещение предприятия, в котором делался шикарный евроремонт, было залито дождевыми водами, а сияющие еще недавно чистотой и свежестью стены покрылись плесенью. В общем, вместе со своим винницким компаньоном Владимиром Онищуком, к тому времени возглавившим фабрику, они снова взялись за ремонт. А спустя два месяца первые партии деликатесной моцареллы были отправлены потребителям...\n</p><p>\n</p><p>- В моей родной Аверсе, городке со стотысячным населением близ Неаполя, более 100 фабрик сыра, - рассказывает маэстро Моцарелла, как называют Маурицио друзья и коллеги. - Производится более 400 видов сыра, и уже в первой половине дня продукция раскупается практически вся! Королевой сыров считают моцареллу, королем - пармезан! Государство очень заботится о сыроделах. Маленькие сыродельни с магазинами размещаются прямо на первых этажах или в полуподвальных помещениях жилых домов. Не понимаю, почему открыть производство в Виннице нам разрешили только на окраине города? Кроме того, в Италии работают огромные консорциумы по закупке молока - сырья для сыров. Сыроделы покупают уже пастеризованное молоко. Причем на протяжении целого года цена на молоко не меняется и закладывается в себестоимость сыра. Мы же в Украине вынуждены сами покупать молоко, да еще и напоминать поставщикам, что для производства моцареллы годится лишь свежее и качественное молоко, без добавления воды и всякой \"химии\". Чистоту, плотность, кислотность, жирность молока проверяем в собственной лаборатории. От некоторых нерадивых поставщиков пришлось отказаться, ведь некачественное молоко нам не нужно - дефекты молока тут же сказываются на вкусе производимых нами сыров. Совершенно непонятно и еще одно: оказывается, купив молоко, я не могу произвести из него все, что захочу. На каждый вид сыра следует оформить целую кучу документов, потратить много времени и денег. А в Италии все эти документы оформляются в одном кабинете за считаные минуты!\n</p><p>\n</p><p>- Моцареллу и другие сыры мы пока производим небольшими объемами, поставляя в фирменный магазин в Виннице и некоторые винницкие и киевские пиццерии, - говорит Владимир Онищук, компаньон Маурицио. - Нашей продукцией интересуются некоторые супермаркеты города. Но свежая моцарелла, которая \"живет\" всего один день, им не подходит. Нужна такая, чтобы продержалась в торговой сети хотя бы неделю, но в этом случае сыр \"сдабривается\" стабилизаторами. Мы на это не идем, потому что заботимся о качестве своих сыров и гордимся, что в нашей моцарелле только натуральные ингредиенты.\n</p><p>\n</p><p>В продажу поступает несколько видов моцареллы. Моцареллу-фреш (белые сырные шарики в специальном рассоле) мы завозим в свои магазины ежедневно. Ту, что не продалась за день, забираем - она пригодна для производства твердых сыров. Впрочем, в последнее время и забирать особо нечего... Кроме свежей, особенно полюбившейся винничанам, есть еще моцарелла для пиццы. Она более сухая, изготавливается в брикетах, а в микроволновке превращается в жидкую массу. Настоящее чудо - моцарелла копченая афумигато, хранящаяся дольше, чем свежая. Освоили и производство моцареллы в рулете, фаршированной ветчиной, базиликом и томатами...\n</p><p>\n</p><p>Синьор Перкуоко сожалеет, что не может приготовить моцареллу из молока черных буйволиц - ту самую, которую готовят в итальянской провинции Кампанья. Молоко буйволиц менее сладкое, чем коровье, но жирнее и содержит больше кальция и белка. К слову, итальянские предприниматели пытались привезти в Винницу семейство буйволов. Но, увы, из-за бюрократических проволочек и нестабильности экономической ситуации в стране осуществление этой идеи пришлось отложить.\n</p><p>\n</p><p>Маурицио говорит, что спрос на итальянские сыры растет. Один из своих новых магазинов маэстро строит такой же, как в Италии - со стеклянной стеной, за которой размещен производственный конвейер. Каждый желающий сможет понаблюдать за рождением вкусных белых шариков.\n</p><p>\n</p><p>Пока же секретами мастерства Маурицио охотно делится со своими рабочими Викой, Леной и Сергеем. Впрочем, совсем непросто освоить уникальный процесс рождения моцареллы. Нужно уметь почувствовать, созрело ли молоко для изготовления творожной массы, а потом разминать ее руками в огромной дубовой бочке даже тогда, когда в бочку подается горячая вода. Разминать тщательно, чтобы не осталось пустот, в которых может собираться влага, ведь в таком случае сыр будет портиться. Масса должна быть цельной, однородной, эластичной. Как только она загустеет, сразу забрасывается в дробилку, откуда и выскакивают белые шарики - мягкие, нежные, при нажатии на которые из них капает молоко...\n</p><p>\n</p><p>\"Если бы каждый гражданин Украины проявлял больше фантазии и меньше эгоизма, тогда у нас в стране все было бы супер!\"\n</p><p>\n</p><p>Маурицио рассказывает, что руководители итальянских предприятий работают наравне с рабочими, даже если обладают состоянием в миллион долларов. И с благодарностью вспоминает своего учителя Джузеппе Ферраюолло, который не только открыл ему секреты изготовления моцареллы, но и преподал уроки уважительного отношения к людям...\n</p><p>\n</p><p>- Маури увлечен работой и частенько задерживается на фабрике допоздна, тогда звоню ему, напоминаю - пора домой, - улыбается Ирина. - Конечно же, домой без моцареллы он не возвращается, ведь мои мама и отец ее просто обожают! В семье теперь частенько звучит \"Viva, моцарелла!\" У итальянцев совсем другая культура потребления молочных продуктов, и мы стараемся ее постигать. Вот, к примеру, муж не разрешает оставлять молоко, чтобы оно прокисало само по себе. Он объясняет, что в этом случае в нем наряду с полезными бактериями образуется и много вредных, которые приводят к различным болезням. Учит нас створаживать молоко с помощью ферментов. Оказывается, что и домашний творог есть нельзя, ведь в нем много плохих бактерий.\n</p><p>\n</p><p>А еще муж очень любит готовить, особенно разные супы. Говорит, в Италии каждый мужчина после сорока лет обязан уметь готовить. Правда, такую возможность предоставляю ему не часто, ведь он полностью опустошает холодильник! А мы, украинцы, привыкли экономно относиться к своим припасам. Приглашая отведать свои супчики, в которых много шпината, помидоров, спагетти, муж говорит, что сработала его фантазия. И что если бы каждый гражданин Украины проявлял больше фантазии и меньше эгоизма, тогда все у нас в стране было бы супер!\n</p><p>\n</p><p>Необыкновенную фантазию Маурицио проявил и в ремонте квартиры, в которой проживает с женой, тещей и тестем. Многое здесь выполнено на итальянский манер. К тому же, заботясь о проживающих в подъезде многоэтажки жителях, он отремонтировал и подъезд, и подвал.\n</p><p>\n</p><p>У гостеприимного Маурицио много друзей. Никто из них уже и не удивляется, что в то время, когда многие граждане Украины предпочитают искать свое счастье в Италии, итальянец нашел его в Украине. Секрет прост - Маурицио считает Украину своей второй родиной. А еще ему нравится, что здесь много красивых женщин, которые любят моцареллу!</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2s",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1477057197-5530-1200x800.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2u"
+        },
+        {
+          "text": "<p><b>Моцарелу з молока чорних буйволиць\n</b></p><p><span style=\"font-size: 1.25rem;\">мріє приготувати для вінничан відомий італійський сировар Мауріціо Перкуоко. Він також виношує ідею спорудження у Вінниці незвичайної фабрики з виробництва сиру – через прозоре скло кожен бажаючий зможе побачити з вулиці, як народжується популярний продукт харчування.&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">Незважаючи на непрості, а точніше,драматичні пригоди італійця в Україні, попри наполягання братів і сестер (їх у Мауріціо шестеро) повернутися додому, він все одно залишився у Вінниці. Тут у нього викрали авто, його побили хулігани, загинув в аварії друг і компаньйон, зрештою, Мауріціо провів майже три роки у в’язниці, на волю вийшов достроково, після помилування Президентом.&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\">Здавалося б, після пережитого треба тікати з такої країни, як кажуть, не оглядаючись. А він залишився. Чому? Каже, що не може залишити щойно розпочатий бізнес. Є ще одна причина. Схоже, вагоміша, ніж бізнес. У місті над Бугом італієць знайшов свою долю. Він обожнює свою дружину на ім’я Ірина. Шанує і поважає її батьків, усі разом вони мешкають в одній квартирі. Віднедавна Мауріціо готує сир під… спів птаха карделіно, схожого на папугу. Імпульсивний італієць не приховує емоцій, жестикулює руками, коли розповідає, наскільки йому подобається голос цього птаха. «Все треба робити з гарним настроєм, тоді буде добре і тобі, і людям», - як не погодитись з таким твердженням зарубіжного гостя.&nbsp;</span></p><p>\n</p><p><b>В Італії сир варять тільки чоловіки\n</b></p><p>\n</p><p>- У моєму містечку Аверса, це недалеко від Неаполя, працює сто фабрик з виробництва сиру, - Мауріціо доводиться повторювати деякі слова, бо російською володіє не дуже досконало. – У магазини поставляють 400 видів сирів. І всі розкуповують. Це при тому, що містечко невелике, в ньому тільки сто тисяч населення.\n</p><p>\n</p><p>Більшість фабрик розташовані на перших поверхах, а то й у підвалах житлових будинків. Уже цим італійці відрізняються від нас. Коли Мауріціо оформляв документи на створення такої фабрики у Вінниці, йому категорично заборонили відкривати виробництво у центральних районах міста. Дозвіл надали тільки на території, що знаходиться на околиці.\n</p><p>\n</p><p>- В Аверсі уже є фабрики за склом, - пояснює італієць. – Кожен бажаючий може побачити з вулиці, як вариться сир. Така відкритість процесу приготування улюбленого для італійців продукту цікава для покупців. Відкритість притягує до себе, як магніт. Не тільки у приготуванні сиру. Люди дивляться, як саме працює той чи інший майстер, і після цього роблять вибір – у цього буду купувати сир, а в цього ні. В Італії відомі сировари у такій само пошані, як зірки кіно, чи естради. До того ж, сир варять тільки чоловіки. Така традиція.\n</p><p>\n</p><p>Побудувати фабрику за склом у Вінниці – одна з мрій сеньйора Мауріціо. «Я вже готовий вкладати кошти у будівництво такої фабрики, - каже він. – Але чи погодиться на це ваша влада? Не впевнений…» За його словами, для організації бізнесу в нього на батьківщині достатньо максимум одного дня. «У вас, щоб зареєструвати новий вид сиру на вже налагодженому виробництві, треба стільки часу й нервів!..»\n</p><p>\n</p><p>Крім будівництва фабрики, італієць виношує ще одну ідею. Він уже пробував втілити її. На жаль, на заваді стали згадані бюрократичні перепони. Однак настирливий Мауріціо, як кажуть, не здається.\n</p><p>\n</p><p><b>Сир на… коні\n</b></p><p>\n</p><p>Більшість споживачів у Вінниці визнали найсмачнішим вид сиру мацарела-фреш. Його готують у вигляді білих кульок, зберігають у спеціально розсолі. Споживають свіжим. «Коли таку кульку розламати, з неї бризкає молочко, - каже помічник італійського майстра Сергій, при цьому ледь стримує слину. – Такий вид сиру поставляємо у торгівлю кожен день. Якщо не вдається реалізувати, забираємо його з магазину і переробляємо знову. Він служить сировиною для приготування сиру для піци. Один з товаришів Сергія називає білі кульки італійськими яйцями. Каже, що така назва вже прижилася у Вінниці. Майстер робить також копчену мацарелу. Крім неї, варимо тверді сири. Вони мають назву качокавалло, качотта. Можуть зберігатися і рік, і два. Продаємо і сиркову масу – рікота. У ній зовсім невеликий вміст жиру».\n</p><p>\n</p><p>Італієць, як він каже, має намір навчити свого українського помічника Сергія майстерності приготування сиру. «Не повернуся додому доти, доки Сергій не навчиться варти сир так само, як це роблю я». Пан Сергій тим часом опановує не тільки технологію. Уважно дослухається до розповідей майстра. Одна з них запам’яталася тому, бо в ній йдеться про походження назви сиру качковала. За давніми італійськими переказами, для охолодження такого сиру використовували… коней. Сир у спеціальній ряднині закріплювали на сідлі і чимдуж гнали коней. Друга частина слова у перекладі означає – кінь. Звідси й назва – сир на… коні.\n</p><p>\n</p><p>На думку сеньйора Мауріціо, найсмачніша мацарела з молока чорних буйволиць. Таке молоко відрізняється від коров’ячого. Більш жирне, але на смак не таке солодке. Містить більше кальцію, білків. Найчастіше мацарелу з молока буйволиць готують в італійській провінції Кампанья.\n</p><p>\n</p><p>- Мені хотілося готувати таку само мацарелу у Вінниці, - каже італієць. – Але завезти до вас чорних буйволиць не дали. Як я не намагався переконати в цьому ваших чиновників, нічого не вдалося. Дивні у вас закони. Коли хочеш робити щось добре, кажуть, не можна. Мабуть, більше ніде такого нема.\n</p><p>\n</p><p>Дивують також італійця, як він каже, ігри з цінами на молоко. «У нас в Італії одна ціна на молоко, - пояснює співрозмовник. – Не має значення, чи то літо, чи зима за вікном. За таких умов можна щось планувати, тоді працюється стабільно. У вас – навпаки. Крутять ціною. При цьому найбільше потерпають споживачі. Щось тут не так…»\n</p><p>\n</p><p><b>Навіть мільйонери працюють\n</b></p><p>\n</p><p>Фразу «щось тут не так», італійцю доводиться повторювати частенько. Де можна, він сам змінює ситуацію. Під’їзд будинку, в квартирі якого Мауріціо мешкає з Іриною та її батьками, не схожий на інші. Італієць відремонтував його. Те саме зробив у підвалі. Стало чисто, затишно й охайно. Він не соромиться фізичної роботи.\n</p><p>\n</p><p>- На виробництві я все роблю своїми руками, а не тільки вказівки роздаю, - каже він. – У нас навіть мільйонери працюють. Якщо в нього фабрика, він не сидить в кабінеті. Він більше часу проводить на виробництві. Ваше начальство керує з кабінетів.\n</p><p>\n</p><p>В Італії у Мауріціо виробництво сиру - сімейний бізнес. Він дістався у спадок від батьків. Нині мають дві фабрики. Уже змалку Мауріціо опановував секрети приготування сиру. Коли підріс, навчався у досвідчених майстрів. В Україну приїхав більше десяти років тому, щоб тут поширити свій бізнес. На жаль, для італійця все почалося з неприємностей, частково про них уже згадувалося вище. У в’язницю його запроторили за незаконне ввезення автомобіля. Машина виявилася краденою. Насправді перевезти її попросив знайомий італієць. Він із своїм компаньйоном теж сів за гарти.\n</p><p>\n</p><p>Два роки і вісім місяців, що їх провів у тюрмі сеньйор Мауріціо, представники посольства Італії в Україні клопотали про перегляд справи і його звільнення. Помилування надійшло від глави держави. За час відбування покарання не стало напарника. В автомобільній катастрофі загинув друг італійця Ігор Стус. Нині на фабриці є куточок, де виставлений портрет загиблого, горить свічечка, а поруч живі квіти. Так Мауріціо береже пам’ять про друга, який був родом з Азербайджану. Розпочатий бізнес занепав. Через руйнування даху, приміщення стало непридатним для виробництва. Довелося все заново ремонтувати. Усі роботи італієць виконував з новим компаньйоном – вінничанином Володимиром Онищуком. З ним вони розвивають нову справу.\n</p><p>\n</p><p>Про якість сиру мацарела, технологію виробництва якого освоїли у нас на низці молокозаводів, Мауріціо говорить коротко: «Ви спробуйте на смак і порівняйте з нашим, більше я нічого не скажу…»</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2v"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "Производство",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Главная<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Кто мы<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Галлерея<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Продукция&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ассортимент</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">История</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Рецепты</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с рикотта</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с моццарелла</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с качотта</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Медиа о нас<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Контакты<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Производство</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Регионы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Магазины</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Прайс-лист</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-2-314x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://aversa.com.ua",
+              "title": "Mobirise logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ТМ «АВЕРСА»</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-1g"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Производство",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1h"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "м.Вінниця, вул. С. Зулінського 34",
+              "placeId": "En7QstGD0LvQuNGG0Y8g0KHQtdGA0LPRltGPINCX0YPQu9GW0L3RgdGM0LrQvtCz0L4sIDM0LCDQktGW0L3QvdC40YbRjywg0JLRltC90L3QuNGG0YzQutCwINC-0LHQu9Cw0YHRgtGMLCDQo9C60YDQsNGX0L3QsCwgMjEwMDA",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-3d"
+        },
+        {
+          "text": "<p><b>ТОВ   « Аверса-Україна »</b></p><p>\n<span style=\"font-size: 1.25rem;\">Директор:  Онищук Володимир Олександрович&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">Головний технолог: Перкуоко Мауріціо&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">Технолог:  Семенюк Сергій Миколайович&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">Бухгалтер: Федорук Альона Василівна</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-39"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Надіслати нам</a>",
+          "text1": "<strong>Адреса виробництва</strong><br>м.Вінниця\n<br>вул. С. Зулінського, 34<br><br>\n<strong>Контакти у Вінниці</strong><br>Email: aversa@mbox.vn.ua \n<br>Тел:  +380-432-698891\n<br>Факс: +380-432-623730<br>",
+          "text2": "<strong>Посилання</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aversa@mbox.vn.ua",
+            "alerts": {
+              "success": "Дякуємо за Вашого листа!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Ваше Ім’я"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Ваш Email"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Ваш Телефон"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Текст листа"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-3e"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "Регионы",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Главная<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Кто мы<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Галлерея<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Продукция&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ассортимент</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">История</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Рецепты</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с рикотта</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с моццарелла</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с качотта</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Медиа о нас<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Контакты<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Производство</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Регионы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Магазины</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Прайс-лист</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-2-314x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://aversa.com.ua",
+              "title": "Mobirise logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ТМ «АВЕРСА»</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-t"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slide-3-1920x1050.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Регионы",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1c"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Вінниця",
+          "caption1": "+ 380 68 6588874<br><b>Олена</b>",
+          "title2": "Київ",
+          "caption2": "+ 380 67 9778867 <br><b>Наташа</b> ",
+          "title3": "Хмельницький",
+          "caption3": "+ 380 67 9317242<br><b>Таня</b>",
+          "title4": "Одеса, Львів",
+          "caption4": "+ 380 93 85844 88<br><b>Олег</b><br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-3f",
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "text-align": "center"
+            },
+            "H4": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Житомир",
+          "caption1": "+ 380 67 4125321<br><b> Олег</b>",
+          "title2": "Харків",
+          "caption2": "+ 380 50 8115859<br><b>Станіслав</b>",
+          "title3": "Черкаси",
+          "caption3": "+ 380 67 4705688",
+          "title4": "Дніпропетровськ",
+          "caption4": "+ 380 67 7223291<br><b>Ігор</b>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-3g",
+          "_styles": {
+            "H4": {
+              "font-size": "23px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "18px"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          }
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "title": "Магазины",
+        "order": 10,
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Главная<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Кто мы<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Галлерея<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Продукция&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ассортимент</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">История</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page5.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Рецепты</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с рикотта</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с моццарелла</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Рецепты с качотта</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Медиа о нас<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Контакты<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Производство</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Регионы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Магазины</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Прайс-лист</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-2-314x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://aversa.com.ua",
+              "title": "Mobirise logo",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ТМ «АВЕРСА»</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-u"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/flag-of-ukraine-5-1920x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/ETwebZFGvPQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/ETwebZFGvPQ",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.9"
+          },
+          "title": "Магазины в Виннице",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1d"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Магазин №1",
+          "caption1": "вул.Соборна 55<br><b>магазин «Справжні італійські сири»\n<br>тел.: (0432) 69-88-71</b>",
+          "title2": "Магазин №2",
+          "caption2": "пр.Юності 43А,ТРК \"МагіГранд\"<br><b>магазин «Справжні італійські сири»\n<br>тел</b>.:<b>&nbsp;(0432) 69-88-73</b>",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-3j"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Магазин №3",
+          "caption1": "вул. Пирогова 80<br><b>магазин  «Справжні італійські сири»\n<br>тел</b>.:<b>&nbsp;(0432) 69-88-72</b>",
+          "title2": "Магазин №4",
+          "caption2": "вул. Київська 164<br><b>магазин  «Справжні італійські сири»\n<br>тел</b>.:<b>&nbsp;(0432) 69-88-91.</b>",
+          "title3": "Магазин №5",
+          "caption3": "вул. С.Зулінського 34<br>магазин «Продукти»<br><b>тел.: (0432)&nbsp;</b><br>",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-3h"
+        }
+      ]
+    }
+  }
+}
